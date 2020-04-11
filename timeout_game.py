@@ -1,3 +1,4 @@
+# copyright IT 2029
 # ask the user for number between 1 and 10
 # store number in a variable of type (int)
 import random
