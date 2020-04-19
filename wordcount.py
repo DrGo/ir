@@ -26,3 +26,6 @@
 
 phrase= "That's the password"
 length= len(phrase)
+
+def wordcount(sentence):
+  return len(sentence)
